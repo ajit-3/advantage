@@ -75,7 +75,7 @@ export default class App extends Component {
                     />
                     <button>
                       <a href="https://www.thesitewizard.com/" target="_blank">
-                        BUY
+                        BUY  a car sdssdfd
                       </a>
                     </button>
                   </div>
